@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Ambitious Front-End Engineer with 1 year of hands-on experience, specializing in React and its vibrant ecosystem. My passion for technology drives me to continuously explore new tools and approaches, because learning never stops. With top-notch communication and teamwork skills, I thrive in collaborative environments and love turning ideas into reality. Always ready to embrace the next challenge! 💡👩‍💻
+🚀 Ambitious Front-End Engineer with 2 year of hands-on experience, specializing in React and its vibrant ecosystem. My passion for technology drives me to continuously explore new tools and approaches, because learning never stops. With top-notch communication and teamwork skills, I thrive in collaborative environments and love turning ideas into reality. Always ready to embrace the next challenge! 💡👩‍💻
 
 
 ## 🌐 Socials:
